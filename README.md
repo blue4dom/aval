@@ -7,7 +7,7 @@
     </a>
   </h3>
   <h3>
-    <a href="https://blue4dom.github.io/" rel="nofollow" target="_blank">
+    <a href="https://blue4dom.github.io/#subscribe" rel="nofollow" target="_blank">
       🛒 خرید اشتراک با قیمت مناسب
     </a>
   </h3>
