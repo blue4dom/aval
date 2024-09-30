@@ -2,12 +2,12 @@
   <img src="/logo.png?raw=true" width="128" height="128">
   <br>
   <h3>
-    <a href="https://www.aval-vpn.com/" rel="nofollow" target="_blank">
+    <a href="https://blue4dom.github.io/" rel="nofollow" target="_blank">
       🔗 جهت ورود به سایت اینجا کلیک کنید
     </a>
   </h3>
   <h3>
-    <a href="https://www.aval-vpn.com/#subscribe" rel="nofollow" target="_blank">
+    <a href="https://blue4dom.github.io/" rel="nofollow" target="_blank">
       🛒 خرید اشتراک با قیمت مناسب
     </a>
   </h3>
