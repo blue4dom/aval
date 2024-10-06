@@ -1,16 +1,12 @@
 <div id="md" dir="rtl">
-  <img src="/logo.png?raw=true" width="128" height="128">
+  <h3>
+    <a href="https://blue4dom.github.io/" rel="nofollow" target="_blank">🔗 جهت ورود به سایت اینجا کلیک کنید</a>
+  </h3>
+  <h3>
+    <a href="https://blue4dom.github.io/#subscribe" rel="nofollow" target="_blank">🛒 خرید اشتراک با بهترین کیفیت</a>
+  </h3>
   <br>
-  <h3>
-    <a href="https://blue4dom.github.io/" rel="nofollow" target="_blank">
-      🔗 جهت ورود به سایت اینجا کلیک کنید
-    </a>
-  </h3>
-  <h3>
-    <a href="https://blue4dom.github.io/#subscribe" rel="nofollow" target="_blank">
-      🛒 خرید اشتراک با قیمت مناسب
-    </a>
-  </h3>
+  <img src="/logo.png?raw=true" width="198" height="198">
   <h3>
     🥇 تنها سرویس فعال حال حاضر
   </h3>
