@@ -6,7 +6,9 @@
     <a href="https://blue4dom.github.io/#subscribe" rel="nofollow" target="_blank">🛒 خرید اشتراک با بهترین کیفیت</a>
   </h3>
   <br>
-  <img src="/logo.png?raw=true" width="198" height="198">
+  <a href="https://blue4dom.github.io/" rel="nofollow" target="_blank">
+    <img src="/logo.png?raw=true" width="198" height="198">
+  </a>
   <h3>
     🥇 تنها سرویس فعال حال حاضر
   </h3>
